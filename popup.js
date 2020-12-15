@@ -112,7 +112,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                 d = n("/KPP"),
                 p = { sm: "5px 23px", md: "8px 69px" },
                 f = u.e.button.withConfig({ componentId: "mahrxc-0" })(
-                    ["position:relative;display:flex;justify-content:center;align-items:center;font-family:Work Sans,sans-serif;font-style:normal;line-height:24px;width:", ";padding:", ";:disabled{cursor:auto;}"],
+                    ["position:relative;display:flex;justify-content:center;align-items:center;font-family:Lato,sans-serif;font-style:normal;line-height:24px;width:", ";padding:", ";:disabled{cursor:auto;}"],
                     function (t) {
                         return t.fullWidth ? "100%" : "";
                     },
@@ -418,7 +418,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                 a = n("vOnD"),
                 c = n("um5V"),
                 s = n("zPNY"),
-                u = a.e.div.withConfig({ componentId: "sc-1mv2vuo-0" })(["display:flex;flex-direction:row;align-items:baseline;font-family:'Work Sans',sans-serif;"]),
+                u = a.e.div.withConfig({ componentId: "sc-1mv2vuo-0" })(["display:flex;flex-direction:row;align-items:baseline;font-family:'Lato',sans-serif;"]),
                 l = a.e.div.withConfig({ componentId: "sc-1mv2vuo-1" })(["color:", ";font-size:16px;padding-right:3px;"], function (t) {
                     return t.theme.colors.darkGray;
                 }),
@@ -527,13 +527,13 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                     })
                 ),
                 S = a.e.div.withConfig({ componentId: "sc-1rueq6a-3" })(
-                    ["font-family:'Work Sans',sans-serif;font-weight:600;height:40px;font-size:16px;color:", ";line-height:19px;overflow:hidden;text-align:left;span{height:40px;}"],
+                    ["font-family:'Lato',sans-serif;font-weight:600;height:40px;font-size:16px;color:", ";line-height:19px;overflow:hidden;text-align:left;span{height:40px;}"],
                     function (t) {
                         return t.theme.colors.darkGray;
                     }
                 ),
                 B = a.e.h1.withConfig({ componentId: "sc-1rueq6a-4" })(
-                    ["font-size:14px;font-family:'Work Sans',sans-serif;color:", ";font-weight:normal;height:20px;overflow:hidden;line-height:16px;margin-bottom:1px;display:block;"],
+                    ["font-size:14px;font-family:'Lato',sans-serif;color:", ";font-weight:normal;height:20px;overflow:hidden;line-height:16px;margin-bottom:1px;display:block;"],
                     function (t) {
                         return t.theme.colors.darkGray;
                     }
@@ -550,7 +550,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                 _ = a.e.div.withConfig({ componentId: "sc-1rueq6a-6" })([
                     "display:flex;height:56px;overflow:hidden;flex-direction:row;align-items:center;padding:0 16px;justify-content:space-between;border-bottom-left-radius:8px;border-bottom-right-radius:8px;",
                 ]),
-                z = a.e.div.withConfig({ componentId: "sc-1rueq6a-7" })(["color:", ";font-size:16px;font-weight:500;font-family:'Work Sans',sans-serif;"], function (t) {
+                z = a.e.div.withConfig({ componentId: "sc-1rueq6a-7" })(["color:", ";font-size:16px;font-weight:500;font-family:'Lato',sans-serif;"], function (t) {
                     return t.theme.colors.darkMint;
                 }),
                 F = a.e.span.withConfig({ componentId: "sc-1rueq6a-8" })(["font-size:12px;color:", ";text-decoration:line-through;"], function (t) {
@@ -1295,9 +1295,9 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                 ),
                 Lt = P.e.h3.withConfig({ componentId: "sc-1v4u02g-3" })(["font-family:DM Serif Display,serif;font-size:28px;line-height:34px;margin:22px 0 32px;"]),
                 qt = P.e.div.withConfig({ componentId: "sc-1v4u02g-4" })(["display:flex;justify-content:space-between;"]),
-                Nt = P.e.span.withConfig({ componentId: "sc-1v4u02g-5" })(["font-family:Work Sans;font-weight:600;font-size:21px;line-height:25px;margin:0 0 24px 0;"]),
+                Nt = P.e.span.withConfig({ componentId: "sc-1v4u02g-5" })(["font-family:Lato;font-weight:600;font-size:21px;line-height:25px;margin:0 0 24px 0;"]),
                 Rt = P.e.div.withConfig({ componentId: "sc-1v4u02g-6" })(["display:flex;flex-direction:column;align-items:baseline;flex:0 0 auto;", ""], G.a.lg(Bt())),
-                Wt = P.e.div.withConfig({ componentId: "sc-1v4u02g-7" })(["font-family:Work Sans,sans-serif;font-size:16px;font-weight:500;display:flex;margin:18px 0;", ""], G.a.lg(St())),
+                Wt = P.e.div.withConfig({ componentId: "sc-1v4u02g-7" })(["font-family:Lato,sans-serif;font-size:16px;font-weight:500;display:flex;margin:18px 0;", ""], G.a.lg(St())),
                 Ut = P.e.span.withConfig({ componentId: "sc-1v4u02g-8" })(
                     ["color:", ";margin:0 0 0 8px;", ""],
                     function (t) {
@@ -1329,7 +1329,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                 Xt = P.e.button.withConfig({ componentId: "sc-1v4u02g-14" })(
                     [
                         "background:",
-                        ";border-radius:8px;padding:16px;font-family:Work Sans,sans-serif;font-weight:600;font-size:18px;line-height:21px;text-align:center;color:",
+                        ";border-radius:8px;padding:16px;font-family:Lato,sans-serif;font-weight:600;font-size:18px;line-height:21px;text-align:center;color:",
                         ";text-decoration-color:",
                         ";width:100%;transition:background 200ms ease-in-out;:hover{background:",
                         ";}",
@@ -2099,7 +2099,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                     })
                 ),
                 Qn = P.e.h1.withConfig({ componentId: "u8o22g-6" })(
-                    ["display:block;padding:4px 0;font-weight:600;font-size:24px;line-height:28px;font-family:Work Sans,sans-serif;color:", ";", ""],
+                    ["display:block;padding:4px 0;font-weight:600;font-size:24px;line-height:28px;font-family:Lato,sans-serif;color:", ";", ""],
                     function (t) {
                         return t.theme.colors.darkGray;
                     },
@@ -2123,7 +2123,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                 $n = P.e.h2.withConfig({ componentId: "u8o22g-13" })(
                     [
                         "font-weight:600;font-size:24px;line-height:28px;color:",
-                        ";display:block;padding-top:16px;font-family:'Work Sans',sans-serif;sub{bottom:0;font-weight:normal;font-size:12px;line-height:14px;text-decoration:line-through;color:",
+                        ";display:block;padding-top:16px;font-family:'Lato',sans-serif;sub{bottom:0;font-weight:normal;font-size:12px;line-height:14px;text-decoration:line-through;color:",
                         ";",
                         "}",
                         "",
@@ -2571,7 +2571,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                 );
             }
             var Kr = Object(P.e)(ee.b.div).withConfig({ componentId: "sc-1ipq8ph-0" })(
-                    ["width:100%;height:100%;display:flex;align-items:center;justify-content:center;color:white;font-size:12px;font-weight:600;font-family:'Work Sans',sans-serif;", ""],
+                    ["width:100%;height:100%;display:flex;align-items:center;justify-content:center;color:white;font-size:12px;font-weight:600;font-family:'Lato',sans-serif;", ""],
                     G.a.lg(Hr())
                 ),
                 Jr = {
@@ -2706,7 +2706,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
             }
             var pi = P.e.div.withConfig({ componentId: "sc-15mj07n-0" })(["display:block;padding:20px;text-align:center;", ""], G.a.lg(di())),
                 fi = P.e.div.withConfig({ componentId: "sc-15mj07n-1" })(["display:none;padding-right:20px;", ""], G.a.lg(li())),
-                xi = P.e.button.withConfig({ componentId: "sc-15mj07n-2" })(["font-family:Work Sans,sans;font-weight:500;font-size:14px;line-height:16px;text-decoration:underline;color:", ";"], function (t) {
+                xi = P.e.button.withConfig({ componentId: "sc-15mj07n-2" })(["font-family:Lato,sans;font-weight:500;font-size:14px;line-height:16px;text-decoration:underline;color:", ";"], function (t) {
                     return t.theme.colors.chestnutCola;
                 }),
                 hi = function (t) {
@@ -2757,7 +2757,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                     return Object(a.jsx)(gi, { children: Object(a.jsx)(ji, { src: e, alt: "" }) });
                 },
                 Oi = P.e.span.withConfig({ componentId: "sc-1g3oq5k-0" })(
-                    ["display:block;font-family:Work Sans;font-size:16px;line-height:19px;color:", ";text-shadow:", ";padding:", ";"],
+                    ["display:block;font-family:Lato;font-size:16px;line-height:19px;color:", ";text-shadow:", ";padding:", ";"],
                     function (t) {
                         var e = t.selected,
                             n = t.theme;
@@ -3155,7 +3155,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                 jo = P.e.div.withConfig({ componentId: "mhmuuy-8" })(["padding-left:8px;margin-left:auto;"]),
                 yo = P.e.div.withConfig({ componentId: "mhmuuy-9" })(["padding:5px 16px 0 16px;max-width:1200px;margin:0 auto;", ""], G.a.lg(oo())),
                 Oo = P.e.div.withConfig({ componentId: "mhmuuy-10" })(["padding-top:16px;display:none;width:35%;", ""], G.a.lg(io())),
-                vo = P.e.h1.withConfig({ componentId: "mhmuuy-11" })(["font-size:54px;line-height:62px;"]),
+                vo = P.e.h1.withConfig({ componentId: "mhmuuy-11" })(["font-family:'Lato';font-weight:700;font-size:54px;line-height:62px;"]),
                 ko = P.e.h4.withConfig({ componentId: "mhmuuy-12" })(["font-size:1rem;line-height:1.5rem;margin-top:8px;", "{font-size:1.125rem;margin-top:24px;}"], Object(Qr.up)("lg")),
                 wo = P.e.div.withConfig({ componentId: "mhmuuy-13" })(["flex:1 1 auto;overflow:auto;", ""], G.a.lg(ro())),
                 Co = P.e.div.withConfig({ componentId: "mhmuuy-14" })(["", ""], G.a.lg(no())),
@@ -3713,7 +3713,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                 Pa = P.e.div.withConfig({ componentId: "mnzzlp-10" })(["max-width:1200px;margin:0 auto;padding:24px 0 65px 0;", ""], G.a.lg(da())),
                 Da = P.e.div.withConfig({ componentId: "mnzzlp-11" })(["padding-bottom:10px;", ""], G.a.lg(la())),
                 Ga = P.e.h5.withConfig({ componentId: "mnzzlp-12" })(
-                    ["display:block;padding:0 16px 7px 16px;font-family:'Work Sans',sans-serif;font-weight:500;font-size:18px;line-height:30px;color:", ";", ""],
+                    ["display:block;padding:0 16px 7px 16px;font-family:'Lato',sans-serif;font-weight:500;font-size:18px;line-height:30px;color:", ";", ""],
                     function (t) {
                         return t.theme.colors.darkGray;
                     },
@@ -4348,7 +4348,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                 wc = P.e.div.withConfig({ componentId: "zs8v29-2" })(["flex:0 0 auto;padding:32px;text-align:center;background:", ";"], function (t) {
                     return t.theme.colors.coffeeFoam;
                 }),
-                Cc = P.e.button.withConfig({ componentId: "zs8v29-3" })(["font-family:'Work Sans',sans;font-weight:500;font-size:16px;line-height:16px;text-decoration:underline;color:", ";"], function (t) {
+                Cc = P.e.button.withConfig({ componentId: "zs8v29-3" })(["font-family:'Lato',sans;font-weight:500;font-size:16px;line-height:16px;text-decoration:underline;color:", ";"], function (t) {
                     return t.theme.colors.chestnutCola;
                 }),
                 Ec = Object(P.e)(bi.a).withConfig({ componentId: "zs8v29-4" })(["flex:0 0 auto;box-shadow:0px 10px 20px rgba(51,51,51,0.1);background:", ";"], function (t) {
@@ -5457,7 +5457,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                 ),
                 f = a.e.button.withConfig({ componentId: "sc-1xf4tis-1" })(
                     [
-                        "display:flex;align-items:center;justify-content:space-between;padding:24px 16px 21px 16px;font-weight:bold;font-size:16px;font-family:'Work Sans',sans serif;line-height:19px;color:black;width:100%;text-align:left;outline:none;",
+                        "display:flex;align-items:center;justify-content:space-between;padding:24px 16px 21px 16px;font-weight:bold;font-size:16px;font-family:'Lato',sans serif;line-height:19px;color:black;width:100%;text-align:left;outline:none;",
                         "",
                     ],
                     s.a.lg(l())
@@ -6426,7 +6426,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
         },
         "l/0c": function (t, e, n) {
             "use strict";
-            e.a = { primary: "Work Sans, sans-serif", secondary: "DM Serif Display, serif", tertiary: "DM Serif Text, serif" };
+            e.a = { primary: "Lato, sans-serif", secondary: "DM Serif Display, serif", tertiary: "DM Serif Text, serif" };
         },
         lwAK: function (t, e, n) {
             "use strict";
@@ -6769,7 +6769,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                     return t.theme.colors.pastelPeach;
                 }),
                 g = c.e.span.withConfig({ componentId: "sc-1qg6fjv-2" })(["font-weight:600;"]),
-                j = c.e.button.withConfig({ componentId: "sc-1qg6fjv-3" })(["font-family:'Work Sans',serif;display:flex;justify-content:space-between;font-weight:600;font-size:14px;line-height:18px;width:100%;", ""], p.a.md(h())),
+                j = c.e.button.withConfig({ componentId: "sc-1qg6fjv-3" })(["font-family:'Lato',serif;display:flex;justify-content:space-between;font-weight:600;font-size:14px;line-height:18px;width:100%;", ""], p.a.md(h())),
                 y = c.e.div.withConfig({ componentId: "sc-1qg6fjv-4" })(["width:16px;height:16px;transform:", ";"], function (t) {
                     return t.isExpanded ? "rotate(180deg)" : "";
                 }),
@@ -6781,7 +6781,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                         return t.hideDesktop ? "none" : "";
                     })
                 ),
-                w = c.e.button.withConfig({ componentId: "sc-1qg6fjv-8" })(["background:", ";padding:16px;border-radius:28px;width:100%;font-size:16px;font-family:'Work Sans',serif;"], function (t) {
+                w = c.e.button.withConfig({ componentId: "sc-1qg6fjv-8" })(["background:", ";padding:16px;border-radius:28px;width:100%;font-size:16px;font-family:'Lato',serif;"], function (t) {
                     return t.theme.colors.white;
                 });
             e.a = function (t) {
